@@ -15,7 +15,14 @@ The following **required** functionality is completed:
 - [Y] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-
+<div>
+    <a href="https://www.loom.com/share/863a29893e704e1aa4c1eb4f6e60baeb">
+      <p>Simulator - iPhone 16 Pro - 9 January 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/863a29893e704e1aa4c1eb4f6e60baeb">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/863a29893e704e1aa4c1eb4f6e60baeb-d0a197e729e48d43-full-play.gif">
+    </a>
+  </div>
 
 ## App Brainstorming (Step 4)
 1. Google Map

@@ -1,1 +1,34 @@
 # Codepath--prework
+# Prework - *Test*
+
+Submitted by: **Yanshan Huang**
+
+**Test** is an app that not only can show three labels, but also can change the screen color through clicking the button.
+
+Time spent: 2 hours spent in total
+
+## Required Features
+
+The following **required** functionality is completed:
+
+- [Y] Users are see a screen with three labels and a button
+- [Y] Tapping the button changes the screen color to a random color
+ 
+## Video Walkthrough
+
+
+## App Brainstorming (Step 4)
+1. Google Map
+    a. Dark Mode
+    b. Different colors represent road condictions
+
+2. Instagram
+    a. Highlight the story and have a progress bar
+    b. See friends' posts and like them
+
+3. YouTube
+    a. Liked Videos
+    b. Long press to speed up the video
+
+
+
